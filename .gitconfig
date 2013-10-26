@@ -1,14 +1,14 @@
 [user]
-	name = NilsLoewe
-	email = mail@nils-loewe.de
+        name = FriederikeLoewe
+        email = rike@loewenrudel.net
 
 [color]
-	status = auto
-	diff = auto
-	branch = auto
-	interactive = auto
+        status = auto
+        diff = auto
+        branch = auto
+        interactive = auto
 
 [alias]
-	co = checkout
-	st = status -s -u
-	br = branch -vv
+        co = checkout
+        st = status -s -u
+        br = branch -vv
